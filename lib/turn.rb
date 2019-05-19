@@ -39,4 +39,5 @@ def turn(board)
     move(board,num2)
   else
     turn(board)
+  end 
 end
